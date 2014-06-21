@@ -17,3 +17,5 @@ class java_38{
 		
 	}
 }
+
+Hi
